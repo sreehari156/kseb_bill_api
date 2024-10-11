@@ -1,18 +1,17 @@
 {
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1"
+  },
   "name": "kseb-bill-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "chrome-aws-lambda": "^10.1.0",
-    "express": "^4.21.1",
-    "puppeteer": "^23.5.2",
-    "puppeteer-core": "^10.4.0"
-  }
+  "description": ""
 }
